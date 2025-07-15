@@ -1,0 +1,7 @@
+# day2_hello.py
+# My first Python script
+
+name = "Harshita"
+goal = "become an AI coding baddie"
+
+print(f"Hi, I'm {name}, and I'm here to {goal}!")
