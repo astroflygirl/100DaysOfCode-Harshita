@@ -7,6 +7,6 @@ Hi, I'm Harshita — Product Marketing Manager by day, soon-to-be AI coding badd
 This repo tracks my daily learnings in:
 - Python & ML
 - Solar & BESS analytics
-- Personal projects like Jalwa & Machaenge
+- Personal marketing projects
 
 Let’s grow some green squares 🌱
